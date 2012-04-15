@@ -1,0 +1,6 @@
+I have changed following files from the tutorial:
+CApp.h
+CApp.cpp
+CApp_OnEvent.cpp
+CApp_OnInit.cpp
+CApp_OnRender.cpp
