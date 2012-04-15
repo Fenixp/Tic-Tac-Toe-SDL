@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="CApp.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="4705" topLine="0" />
+	</File>
+	<File name="CApp.h" open="1" top="0" tabpos="2">
+		<Cursor position="1937" topLine="53" />
+	</File>
+	<File name="CApp_OnCleanup.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="299" topLine="0" />
+	</File>
+	<File name="CApp_OnEvent.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="303" topLine="0" />
+	</File>
+	<File name="CApp_OnInit.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="1215" topLine="8" />
+	</File>
+	<File name="CApp_OnLoop.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="CApp_OnRender.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="1197" topLine="6" />
+	</File>
+	<File name="CEvent.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="571" topLine="27" />
+	</File>
+	<File name="CEvent.h" open="1" top="0" tabpos="8">
+		<Cursor position="705" topLine="17" />
+	</File>
+	<File name="CSurface.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="1055" topLine="16" />
+	</File>
+	<File name="CSurface.h" open="1" top="0" tabpos="1">
+		<Cursor position="410" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

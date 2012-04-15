@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1334523121 source:/home/fenixp/Programming/Moje/FirstSteps/CApp.cpp
+	"CApp.h"
+
+1334525701 /home/fenixp/Programming/Moje/FirstSteps/CApp.h
+	<SDL.h>
+	<stdlib.h>
+	<time.h>
+	"CSurface.h"
+	"CEvent.h"
+
+1333385876 /home/fenixp/Programming/Moje/FirstSteps/CSurface.h
+	<SDL.h>
+
+1333383899 source:/home/fenixp/Programming/Moje/FirstSteps/CApp_OnCleanup.cpp
+	"CApp.h"
+
+1334522675 source:/home/fenixp/Programming/Moje/FirstSteps/CApp_OnEvent.cpp
+	"CApp.h"
+
+1333137171 source:/home/fenixp/Programming/Moje/FirstSteps/CApp_OnLoop.cpp
+	"CApp.h"
+
+1333386124 source:/home/fenixp/Programming/Moje/FirstSteps/CSurface.cpp
+	"CSurface.h"
+
+1334519694 source:/home/fenixp/Programming/Moje/FirstSteps/CApp_OnInit.cpp
+	"CApp.h"
+
+1334519730 source:/home/fenixp/Programming/Moje/FirstSteps/CApp_OnRender.cpp
+	"CApp.h"
+
+1333307679 /home/fenixp/Programming/Moje/FirstSteps/CEvent.h
+	<SDL.h>
+
+1333386894 source:/home/fenixp/Programming/Moje/FirstSteps/CEvent.cpp
+	"CEvent.h"
+
